@@ -106,12 +106,4 @@ let imageBook = [
     };
 
     
-    // img element
-
-   
-
-
-
-
-
     
